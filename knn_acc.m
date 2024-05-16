@@ -1,5 +1,5 @@
 function [uji,target,klasifikasi,hasil] = knn_acc(model)
-cd("D:\projectPCD\uji\");
+cd("D:\SEFA\MDP\SMST 5\PCD\TA PCD Richie-Yosefa\uji");
 data = {'daisy','sunflower'};
 jmlkls = length(data);
 for n=1:jmlkls

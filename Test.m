@@ -111,7 +111,7 @@ guidata(hObject, handles);  % Update handles structure
 
 % Training
 function knnModel = glcmKnn()
-    cd('D:\TA PCD 2125250007 - 2125250088\');
+    cd('D:\SEFA\MDP\SMST 5\PCD\TA PCD Richie-Yosefa');
     
     % Mendefinisikan kelas dataset
     dataset = {'daisy'; 'sunflower'};
